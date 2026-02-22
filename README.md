@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ben Whitehead
 
-<!--
-**Benw3105/Benw3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Financial Mathematics graduate building quantitative trading strategies and financial tools in Python.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Pairs Trading Strategy](https://github.com/Benw3105/pairs-trading-strategy)** — Statistical arbitrage strategy using cointegration analysis on US equities. Achieved a Sharpe ratio of 1.29 and 37.3% return over the training period (2015–2019).
+
+## Skills
+
+- **Languages:** Python
+- **Libraries:** Pandas, NumPy, Statsmodels, Matplotlib, yFinance
+- **Concepts:** Statistical arbitrage, cointegration, mean reversion, backtesting, time series analysis
+
+## Interests
+
+Quantitative finance, algorithmic trading, financial modelling
+
+---
+
+*Always building — more projects coming soon.*
